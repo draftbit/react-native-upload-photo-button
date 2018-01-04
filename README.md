@@ -2,7 +2,7 @@
 
 A simple, cross platform button for selecting photos.
 
-![React Native Upload Photo Button]('./screenshots/screenshot.png')
+![React Native Upload Photo Button](./screenshots/screenshot.png)
 
 ## Usage
 

@@ -1,0 +1,12 @@
+{
+  "name": "react-native-upload-photo-button",
+  "version": "1.0.0",
+  "description": "Just a simple button with a camera",
+  "main": "UploadPhotoButton.js",
+  "author": "Peter Piekarczyk <peter@orchard.ai>",
+  "license": "MIT",
+  "peerDependencies": {
+    "@expo/vector-icons": "^6.2.2",
+    "react-native-platform-touchable": "^1.1.1"
+  }
+}
